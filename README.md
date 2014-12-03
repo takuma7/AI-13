@@ -4,8 +4,6 @@ AI-13
 
 ## Usage
 
-### Changing Mode
-
 ```
 d -> Drawing Mode
 e -> Editing Mode
@@ -14,12 +12,20 @@ l -> Labeling Mode
 
 ### Drawing Mode
 
+Drag & Drop to draw a new line.
+
 ```
 u -> Undo (remove last added edge)
 c -> Clear (remove all edges)
 ```
 
 ### Editing Mode
+
+Drag & Drop to move segment.
+
+```
+Shift+Click -> Delete selected edge
+```
 
 ### Labeling Mode
 
